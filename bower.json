@@ -1,0 +1,29 @@
+{
+  "name": "inl/modeler",
+  "version": "0.1.0",
+  "main": "src/modeler.js",
+  "license": "MIT",
+  "moduleType": "amd",
+  "ignore": [
+    "**/.*",
+    "build",
+    "dist/cdn",
+    "speed",
+    "test",
+    "*.md",
+    "AUTHORS.txt",
+    "Gruntfile.js",
+    "package.json"
+  ],
+  "dependencies": {
+    "requirejs": "2.1.10"
+  },
+  "keywords": [
+    "modeler",
+    "javascript",
+    "library"
+  ],
+  "authors": [
+      "Michal Pierzchalski <michal.pierzchalski@gmail.com>"
+  ]
+}
