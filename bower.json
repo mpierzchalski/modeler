@@ -1,5 +1,5 @@
 {
-  "name": "inl/modeler",
+  "name": "inl-modeler",
   "version": "0.1.0",
   "main": "src/modeler.js",
   "license": "MIT",
